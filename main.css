@@ -1,0 +1,40 @@
+#style {
+    margin-top: 100px; background-color: rgb(204, 253, 208);
+    border-color: #024e08;
+    border-style: dotted ;
+}
+.text-color {
+    color : #024e08;
+    font-family: sans-serif;
+} 
+.text-color2 {
+    color :#747474;
+    line-height: 7px;
+}
+#lineheight {
+    line-height: 60px;
+}
+#texthiza {
+    margin-top: 30px;
+}
+.number{
+    color:black;
+    font-size: 17px;
+}
+.text {
+    color : black;
+    font-size: 12px;
+}
+.resim {
+    height: 35px;
+    width: 35px;
+}
+
+.resim2 {
+    height : 35px;
+    width: 60px;
+}
+
+.btn {
+margin-left: 125px;
+}
